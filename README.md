@@ -14,7 +14,7 @@ Thank you for taking the time to review my portfolio. I look forward to discussi
 
 **ATP Tennis Analysis**
 
-  *Class: DS801: Business Inteligence*
+  *Class: DS801: Business Intelligence*
   
   *Skills: SQL Analysis, Business Intelligence, Data Visualization, Data Reporting*
 _________________________________________________________________________________________________________________________________________
