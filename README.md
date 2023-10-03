@@ -10,7 +10,8 @@ As you explore these projects, I encourage you to consider how my expertise alig
 
 Thank you for taking the time to review my portfolio. I look forward to discussing how I can leverage my skills to advance your organization's data science endeavors.
 
-# Portfolio
+# Portfolio Description
+
 ATP Tennis Analysis:
   Class: DS801: Business Inteligence
   Skills: SQL Analysis, Business Intelligence, Data Visualization, Data Reporting
