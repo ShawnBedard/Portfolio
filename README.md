@@ -12,54 +12,56 @@ Thank you for taking the time to review my portfolio. I look forward to discussi
 
 # Portfolio Description
 
-ATP Tennis Analysis:
+**ATP Tennis Analysis**
 
   Class: DS801: Business Inteligence
   
   Skills: SQL Analysis, Business Intelligence, Data Visualization, Data Reporting
 
-Air Quality Analysis:
+**Air Quality Analysis**
 
  Class: DS809: Time Series Analysis
  
  Skills: Regression, Deterministic Time Series, Stochastic Time Series, Multivariate Time Series Modeling, Time Series Forecasting
 
 
-Analysis of Covid-19:
+**Analysis of Covid-19**
 
   Class: DS804: Communication of Data
   
   Skills: Data Visualization, Data Management, Data Communication, Data Storytelling, Data Reporting, Data Interpretation
 
 
-Analyzing Education and Income
+**Analyzing Education and Income**
 
   Class: DS803: Fundementals of Statistics
   
   Skills: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Statistical Analysis
 
 
-Classification of Home Loan Applications
+**Classification of Home Loan Applications**
 
   Class: DS805: Statistical Learning
   
   Skills: Classification Modeling, Tree-Based Models, Feature Engineering, Model Evaluation
 
 
-Meta Strategic Analysis & Formulation
+**Meta Strategic Analysis & Formulation**
 
   Class: DS775: Strategic Management
   
   Skills: Strategic Planning, SWOT Analysis, Business Strategy, Strategic Decision-Making
 
 
-Online Shopping Rentention
+**Online Shopping Rentention**
 
   Class: DS807: Unstructured Data
   
   Skills: Natural Language Processing, Customer Segmentation, Customer Retention Strategies, Text Analytics
 
 
-Predicting High Booking Airbnb: Maximizing Return on Investment
+**Predicting High Booking Airbnb: Maximizing Return on Investment**
+
   Class: DS810: Big Data & Artificial Intelligence
+  
   Skills: Machine Learning, Big Data Analytics, Predictive Modeling, ROI Analysis, Big Data Processing
