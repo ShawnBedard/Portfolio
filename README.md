@@ -31,35 +31,35 @@ ________________________________________________________________________________
   *Class: DS804: Communication of Data*
   
   *Skills: Data Visualization, Data Management, Data Communication, Data Storytelling, Data Reporting, Data Interpretation*
-
+_________________________________________________________________________________________________________________________________________
 
 **Analyzing Education and Income**
 
   *Class: DS803: Fundementals of Statistics*
   
   *Skills: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Statistical Analysis*
-
+_________________________________________________________________________________________________________________________________________
 
 **Classification of Home Loan Applications**
 
   *Class: DS805: Statistical Learning*
   
   *Skills: Classification Modeling, Tree-Based Models, Feature Engineering, Model Evaluation*
-
+_________________________________________________________________________________________________________________________________________
 
 **Meta Strategic Analysis & Formulation**
 
   *Class: DS775: Strategic Management*
   
   *Skills: Strategic Planning, SWOT Analysis, Business Strategy, Strategic Decision-Making*
-
+_________________________________________________________________________________________________________________________________________
 
 **Online Shopping Rentention**
 
   *Class: DS807: Unstructured Data*
   
   *Skills: Natural Language Processing, Customer Segmentation, Customer Retention Strategies, Text Analytics*
-
+_________________________________________________________________________________________________________________________________________
 
 **Predicting High Booking Airbnb: Maximizing Return on Investment**
 
