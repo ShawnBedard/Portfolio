@@ -17,13 +17,14 @@ Thank you for taking the time to review my portfolio. I look forward to discussi
   *Class: DS801: Business Inteligence*
   
   *Skills: SQL Analysis, Business Intelligence, Data Visualization, Data Reporting*
+_________________________________________________________________________________________________________________________________________
 
 **Air Quality Analysis**
 
  *Class: DS809: Time Series Analysis*
  
  *Skills: Regression, Deterministic Time Series, Stochastic Time Series, Multivariate Time Series Modeling, Time Series Forecasting*
-
+_________________________________________________________________________________________________________________________________________
 
 **Analysis of Covid-19**
 
