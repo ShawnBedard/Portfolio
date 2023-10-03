@@ -24,11 +24,13 @@ Air Quality Analysis:
  
  Skills: Regression, Deterministic Time Series, Stochastic Time Series, Multivariate Time Series Modeling, Time Series Forecasting
 
+
 Analysis of Covid-19:
 
   Class: DS804: Communication of Data
   
   Skills: Data Visualization, Data Management, Data Communication, Data Storytelling, Data Reporting, Data Interpretation
+
 
 Analyzing Education and Income
 
@@ -36,11 +38,13 @@ Analyzing Education and Income
   
   Skills: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Statistical Analysis
 
+
 Classification of Home Loan Applications
 
   Class: DS805: Statistical Learning
   
   Skills: Classification Modeling, Tree-Based Models, Feature Engineering, Model Evaluation
+
 
 Meta Strategic Analysis & Formulation
 
@@ -48,11 +52,13 @@ Meta Strategic Analysis & Formulation
   
   Skills: Strategic Planning, SWOT Analysis, Business Strategy, Strategic Decision-Making
 
+
 Online Shopping Rentention
 
   Class: DS807: Unstructured Data
   
   Skills: Natural Language Processing, Customer Segmentation, Customer Retention Strategies, Text Analytics
+
 
 Predicting High Booking Airbnb: Maximizing Return on Investment
   Class: DS810: Big Data & Artificial Intelligence
