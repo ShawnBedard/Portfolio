@@ -1,3 +1,5 @@
+# Welcome
+
 Greetings and welcome to my data science portfolio, curated with the intention of showcasing my skills, experience, and passion for the field. If you're an employer or recruiter seeking a data scientist who can deliver impactful insights and solutions, you've come to the right place.
 
 Within these pages, you'll find a selected collection of projects that represent the culmination of my journey in data science. These projects span a spectrum of domains and methodologies, providing a comprehensive view of my capabilities and adaptability in addressing diverse data-driven challenges.
